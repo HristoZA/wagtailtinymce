@@ -1,6 +1,10 @@
 This fork adds Wagtail 2.0 & Django 2.0 support from `k0ngs pull request 
 <https://github.com/isotoma/wagtailtinymce/pull/23>`_.
 
+install via:
+
+``pip install https://github.com/HristoZA/wagtailtinymce/archive/new.zip``
+
 ===============
 Wagtail TinyMCE
 ===============
