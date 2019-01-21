@@ -1,3 +1,4 @@
+This fork adds Wagtail 2.0 & Django 2.0 support from `k0ngs pull request <https://github.com/isotoma/wagtailtinymce/pull/23>`this pull request. 
 ===============
 Wagtail TinyMCE
 ===============
