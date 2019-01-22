@@ -9,8 +9,6 @@ install via:
 Wagtail TinyMCE
 ===============
 
-This fork adds Wagtail 2.0 & Django 2.0 support from [k0ngs pull request](https://github.com/isotoma/wagtailtinymce/pull/23). 
-
 Wagtail TinyMCE offers integration of the
 `TinyMCE rich text editor <http://www.tinymce.com>`_ into the
 `Wagtail CMS <http://wagtail.io>`_.
